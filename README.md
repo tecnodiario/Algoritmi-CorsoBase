@@ -1,2 +1,2 @@
 # Algoritmi-CorsoBase
-Corso base daglia Algoritmi alla conoscenza dai Big Data
+Corso base dagli Algoritmi alla conoscenza dai Big Data
